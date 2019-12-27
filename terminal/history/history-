@@ -1,0 +1,500 @@
+cd /tmp
+ls
+mkdir airvpn
+cd airvpn/
+ls
+ls
+cd eddie-ui_2.16.3_linux_x64_arch/
+ls
+ls -Al
+./configure
+ls
+cd usr
+ls -Al
+ls -R
+ls
+cd lib
+ls
+ls -Al
+cd eddie-ui/
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin
+ls
+ls -Al
+cd eddie-ui 
+./eddie-ui 
+cd ..
+ls
+pwd
+yay -Ss eddie
+yay -S aur/airvpn-bin
+ssh admin2
+clear
+ssh admin2
+cd ~
+ls
+cd drupal-8.7.10/
+ls
+rm README.txt 
+cd ..
+rm drupal-8.7.10/
+rm -Rf drupal-8.7.10/
+ls
+ls
+cd drupal-8.7.10/
+ls
+ls -Al
+ssh admin2
+ssh admin2
+ssh admin2
+exit
+cd /tmp
+ls
+ip addr
+cat ~/.ssh/config 
+ip addr
+exit
+ssh admin2
+exit
+scp -R admin2:/home/biggs/32208 ~/.
+scp -r admin2:/home/biggs/32208 ~/.
+ls -Al
+ls
+ls -R 32208/
+zip -r scott_boutilier_32208.zip 32208/
+yay -S zip
+zip -r scott_boutilier_32208.zip 32208/
+ls -Al
+ls
+ip addr
+ls
+exit
+cd .ssh
+ls
+exit
+exit
+ssh abiggs
+ssh abiggs
+exit
+ping vpn1ca.ddns.net
+telnet 216.121.234.104 36766
+ping adambiggs.ca
+ip addr
+traceroute 184.168.131.241
+yay -S traceroute
+traceroute 184.168.131.241
+traceroute adambiggs.ca
+traceroute vpn1ca.ddns.net
+ip addr
+ping vpn1.ddns.net
+ping vpn1ca.airdns.org
+ip addr
+ping vpn1ca.ddns.net
+telnet 216.121.234.104 36766
+traceroute vpn1ca.ddns.net
+ping 192.168.1.163
+telnet 192.168.1.163 80
+telnet adambiggs.ca 80
+telnet adambiggs.ca 36766
+ssh admin2
+ping adambiggs.ca
+ip addr
+traceroute adambiggs.ca
+telnet 216.121.234.104 80
+ssh admin2
+ssh admin2
+ping adambiggs.ca
+ping adambiggs.ca
+expr 289 - 50
+expr 269 - 50
+ssh admin2
+cat ~/.ssh/config 
+mv Downloads/ISO1.pem .ssh/.
+cd .ssh/
+ls
+ls -Al
+ssh newadmin
+vim config 
+ssh adambiggs
+cat config 
+vim config 
+ssh adambiggs
+ssh abiggs
+vim config 
+ssh abiggs
+ssh -i "ISO1.pem" ubuntu@ec2-15-222-87-166.ca-central-1.compute.amazonaws.com
+ping 15.222.87.166
+ping 35.182.125.139
+ssh -i "ISO1.pem" ubuntu@ec2-15-222-87-166.ca-central-1.compute.amazonaws.com
+ls
+ls -Al
+sudo chmod 600 ISO1.pem 
+vim config 
+ssh abiggs
+vim config 
+ssh abiggs
+sudo vim config
+ssh abiggs
+ls -Al
+sudo vim config
+ssh abiggs
+cat config
+vim config
+exit
+ssh abiggs
+ssh abiggs
+cd .ssh
+ls -Al
+vim known_hosts 
+ssh abiggs
+exit
+cd .ssh
+ls
+cat id_rsa.pub 
+ssh abiggs
+ssh abiggs
+ssh abiggs
+ssh admin2
+ssh abiggs
+ssh abiggs
+ssh admin2
+cat config 
+ssh abiggs
+ssh admin2
+cat config 
+ssh abiggs
+ssh admin2
+ssh admin2
+ls
+cd Projects/
+ls
+cd abiggs.ca/
+ls
+lwd
+pwd
+ls
+echo *
+shopt
+pwd
+ls -Al
+cd ..
+rm -rf abiggs.ca/
+ls -Al
+sudo rm -rf abiggs.ca/
+yay -Ss ludis
+yay -Ss game
+yay -Ss game | grep lut
+yay -Ss lutris
+yay -S lutris
+yay -S vulkan-icd-loader
+yay -S vulkan-intel
+yay -Rns vulkan-intel
+yay -S nvidia
+ls /usr/share/vulkan/icd.d/
+locate *pdf
+exit
+ssh abiggs
+ssh abiggs
+ssh admin2
+ls
+cd Projects/
+ls
+mkdir abiggs.ca
+cd abiggs.ca/
+git clone git@github.com:adambiggs3/abiggs.git
+ls ~/.ssh/
+cat ~/.ssh/id_rsa.pub
+git clone git@github.com:adambiggs3/abiggs.git
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+git clone git@github.com:adambiggs3/abiggs.git
+ls
+mv abiggs/* .
+ls
+ls -R abiggs/
+rm -rf abiggs/
+ls -Al
+docker
+docker ps
+docker run -i -t -p 80:80 ricardoamaro/drupal8
+docker ps
+ls
+cd ..
+ls
+git clone https://github.com/ricardoamaro/drupal8-docker-app.git
+ls
+cd drupal8-docker-app/
+./drupal8_local.sh
+pwd
+pwd
+cd ..
+ls
+ls
+cd abiggs.ca/
+ls -Al
+cd local/
+ls -Al
+cd web/
+ls
+pwd
+ls
+git status
+git log
+git add .
+git commit -m "initial move to local dev"
+git status
+git branch -a
+git branch -v
+git push origin master
+exit
+ssh admin2
+ssh admin2
+exit
+cd Projects/
+ls
+cd drupal8-docker-app/
+ls
+cd local/
+ls
+cd web
+ls
+pqs
+pwd
+cd ..
+ls
+rm -rf data/
+cd web/
+ls
+rm -rf *
+sudo rm -rf *
+ls -Al
+rm .*
+ls -Al
+pwd
+ls -s /home/leep/Projects/abiggs.ca/ .
+ls
+ls -s /home/leep/Projects/abiggs.ca/
+ls -Al
+cd ..
+ls -AL
+ls -Al
+cd web/
+ls ~/Projects/abiggs.ca/
+ls -Al ~/Projects/abiggs.ca/
+pwd
+ln -s /home/leep/Projects/abiggs.ca /home/leep/Projects/drupal8-docker-app/local/web
+ls
+unlink abiggs.ca
+ls
+ln -s /home/leep/Projects/abiggs.ca/ /home/leep/Projects/drupal8-docker-app/local/web
+ls
+unlink abiggs.ca
+ln -s /home/leep/Projects/abiggs.ca/ /home/leep/Projects/drupal8-docker-app/local/web/
+ls
+unlink abiggs.ca
+ln -s /home/leep/Projects/abiggs.ca/*.* /home/leep/Projects/drupal8-docker-app/local/web/
+ls
+ls -Al
+ln -s /home/leep/Projects/abiggs.ca/ /home/leep/Projects/drupal8-docker-app/local/web/
+ls
+unlink *.*
+ls
+unlink *
+unlink .
+ls
+ls -Al
+unlink abiggs.ca
+unlink *
+ls
+unlink autoload.php 
+unlink composer.*
+unlink composer.json 
+unlink composer.lock 
+ls
+unlink example.gitignore 
+unlink index.php 
+unlink INSTALL.txt 
+unlink LICENSE.txt 
+unlink README.txt 
+unlink robots.txt 
+unlink update.php 
+unlink web.config 
+ls
+ls -Al
+pwd
+cd ../..
+ls
+cd ..
+ls
+mv abiggs.ca/ drupal8-docker-app/local/web/
+ls
+mv drupal8-docker-app/ abiggs.ca/
+ls
+cd abiggs.ca/
+ls
+cd local/
+ls
+cd web/
+ls
+mv abiggs.ca/* .
+ls -Al abiggs.ca/
+rm -rf abiggs.ca/
+ls 
+cd sites/
+ls
+cd default/
+ls
+rm settings.php 
+cd ../..
+pwd
+ls
+cd ..
+ls
+cd ..
+ls
+./drupal8_local.sh
+vim ~/.i3/config
+mhwd -l
+mhwd -l -d
+yay -S steam
+pwd
+cd ..
+ls
+ls -Al
+ls -Al
+cd .
+cd ..
+cd Projects/
+ls
+git clone https://github.com/ricardoamaro/drupal8-docker-app.git
+ls
+mv drupal8-docker-app/ abiggs.ca/
+cd abiggs.ca/
+ls
+ls -Al
+./drupal8_local.sh
+ls
+ls -Al
+cd ..
+cd abiggs.ca/
+ls
+rm .git
+rm -r .git
+rm -rf .git
+git clone git@github.com:adambiggs3/abiggs.git
+git remote set-url origin git@github.com:adambiggs3/abiggs.git
+eval "$(ssh-agent -s)"
+ssh-add
+git clone git@github.com:adambiggs3/abiggs.git
+ls
+cd abiggs
+ls
+cd ..
+ls
+cd local
+ls
+rm -rf data
+cd web/
+rm *.*
+ls -Al
+rm -rf *.*
+ls
+ls -Al
+rm -rf modules/
+sudo rm -rf *.*
+ls -Al
+cd ..
+ls
+ls -Al
+cd web/
+ls
+cd ..
+pwd
+cd web
+ls -Al
+sudo rm -rf core
+l
+sudo rm -rf *
+ls -Al
+sudo rm .*
+ls
+mv ../../abiggs/*
+ls
+sudo mv ../../abiggs/*
+ls
+sudo mv ../../abiggs/
+sudo mv ../../abiggs/ .
+ls
+mv abiggs/* .
+ls abiggs
+ls -Al abiggs/
+mv abiggs/.* .
+ls -Al abiggs
+rm -rf abiggs
+ls -Al
+git status
+cd ../..
+ls
+rm local/web/sites/default/settings.php 
+./drupal_local.sh
+ls -Al
+./drupal8_local.sh
+exit
+shutdown -r now
+ssh admin2
+ssh admin2
+locate *.pdf
+ssh admin2
+exit
+cd /usr/share/gutenprint/
+ls
+cd doc/
+ls
+mv gutenprint.pdf "Dr J Reyonds.pdf"
+sudo mv gutenprint.pdf "Dr J Reyonds.pdf"
+exit
+ssh admin2
+ssh admin2
+exit
+scp admin2:/tmp/092248oEx45r.pdf .
+yay -Ss pdfmaster
+yay -Ss pdf-master
+yay -Ss masterpdfeditor
+yay -S aur/masterpdfeditor-free
+yay -Suy
+yay -S aur/masterpdfeditor-free
+exit
+shutdown -r now
+shutdown -r now
+ssh admin2
+exit
+ssh admin2
+ls -Al
+cd .i3/
+ls
+vim config 
+npm
+npm
+npm -install -g sass
+npm install -g sass
+sudo chown -R $USER /usr/lib/node_modules
+npm install -g sass
+ls -Al /usr/local/lib/
+ls -Al /usr/lib/
+ls -Al /usr/lib/node_modules/
+ls -Al /usr/lib/node_modules/npm
+vim ~/.profile 
+source ~/.profile 
+npm -install -g sass
+npm install -g sass
+sass
+ls 
+sass
+sass
+locate sass
+ls -Al sass
+sass

@@ -1,0 +1,37 @@
+<application>
+  <component name="WindowManager">
+    <frame x="3639" y="-22" width="1442" height="2559" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog/1920.1080" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog/1920.1080/1920.1080/2560.1440" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog/2560.1440" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog@1920.1080" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog@1920.1080@144dpi" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog@2560.1440" />
+    <state x="100" y="332" width="1585" height="838" key="DiffContextDialog@2560.1440@144dpi" />
+    <state x="100" y="332" width="1585" height="838" key="DirDiffDialog" />
+    <state x="100" y="332" width="1585" height="838" key="DirDiffDialog/1920.1080/1920.1080/2560.1440" />
+    <state x="100" y="332" width="1585" height="838" key="DirDiffDialog/2560.1440" />
+    <state x="100" y="332" width="1585" height="838" key="DirDiffDialog@1920.1080" />
+    <state x="100" y="332" width="1585" height="838" key="DirDiffDialog@2560.1440" />
+    <state x="100" y="332" width="1352" height="838" key="com.intellij.history.integration.ui.views.FileHistoryDialog" />
+    <state x="100" y="332" width="1352" height="838" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.1080/1920.1080/2560.1440" />
+    <state x="100" y="332" width="1352" height="838" key="com.intellij.history.integration.ui.views.FileHistoryDialog@1920.1080" />
+  </component>
+</application>

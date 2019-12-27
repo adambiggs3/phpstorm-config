@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53b3415c-bae5-4b51-8dff-26bbf21e5fd9" name="admin2" url="https://dev.greenleafmc.ca/">
+        <fileTransfer host="35.182.125.139" port="22" privateKey="$USER_HOME$/.ssh/Adam.pem" rootFolder="/home/biggs/admin.ca/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d527d356-83ba-4d1f-9567-88ea1ab865c3" name="Lavavel" url="http://192.168.10.10">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="09e25d2d-492d-4649-b4c6-819bb12e51bb" name="Drupal8 Docker App" url="http://172.17.0.2">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
